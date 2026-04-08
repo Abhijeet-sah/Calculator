@@ -53,3 +53,10 @@
 ---
 
 ## 📂 Folder Structure
+calculator/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│ └── demo.gif
+└── README.md
