@@ -17,7 +17,7 @@
 ## 🚀 Live Demo
 
 🔗 **Try it here:**  
-👉 https://Abhijeet-sah.github.io/Calculator/
+👉 [https://Abhijeet-sah.github.io/Calculator/](https://abhijeet-sah.github.io/Calculator/)
 
 ---
 
